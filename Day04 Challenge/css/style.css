@@ -1,0 +1,21 @@
+nav{
+    background-color: blueviolet;
+}
+.left{ 
+    background-color: aqua;
+}
+.right{
+    background-color: aquamarine;
+}
+footer{
+    background-color: cornflowerblue;
+}
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    flex-grow: 2;
+}
